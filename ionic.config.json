@@ -1,0 +1,7 @@
+{
+  "name": "enviromemt",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
